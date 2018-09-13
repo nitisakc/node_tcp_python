@@ -1,0 +1,21 @@
+{
+  "name": "node_tcp_python",
+  "version": "1.0.0",
+  "description": "Test communication over TCP between NodeJS Server and python client",
+  "scripts": {
+    "start": "node ./node_server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitisakc/node_tcp_python.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitisakc/node_tcp_python/issues"
+  },
+  "homepage": "https://github.com/nitisakc/node_tcp_python#readme",
+  "dependencies": {
+    "net": "^1.0.2"
+  }
+}
