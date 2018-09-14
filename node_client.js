@@ -1,7 +1,7 @@
 var net = require('net');
  
 var HOST = 'localhost';
-var PORT = 8800;
+var PORT = 9999;
  
 var client = new net.Socket();
  
